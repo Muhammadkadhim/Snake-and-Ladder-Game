@@ -1,2 +1,2 @@
 # Snake-and-Ladder-Game
-command line snake and ladder game
+Command line snake and ladder game
